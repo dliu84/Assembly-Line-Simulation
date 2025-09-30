@@ -54,7 +54,7 @@ git clone https://github.com/dliu84/Assembly-Line-Simulation.git
 g++ *.cpp -o AssemblyLine
 ./AssemblyLine
 ```
-3. Observe the simulation output.
+3. Provide input files as per project requirements and observe the simulation output.
 
 ## Contributors
 
