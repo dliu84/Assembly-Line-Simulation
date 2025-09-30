@@ -45,10 +45,16 @@ The simulation consists of **workstations** that hold specific stock items and a
 ---
 
 ## How to Run
-Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/dliu84/Assembly-Line-Simulation.git
 ```
+2. Open the project in a C++ IDE (e.g.Visual Studio) or compile using g++:
+```
+g++ *.cpp -o AssemblyLine
+./AssemblyLine
+```
+3. Observe the simulation output.
 
 ## Contributors
 
