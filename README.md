@@ -5,6 +5,9 @@
 ## Overview
 This project is a **C++ Assembly Line Simulation** built using **Object-Oriented Programming (OOP)** principles. It models an assembly line with multiple stations processing customer orders for various products.  
 
+![Assembly Line Simulation](assembly_line_diagram.png)
+
+
 The simulation consists of **workstations** that hold specific stock items and a **Line Manager** that moves customer orders along the line. Each order contains a list of items to be filled. Stations fill orders if they have the item in stock, and orders progress until completion or remain incomplete due to insufficient inventory.
 
 ### Key Goals
