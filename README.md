@@ -47,7 +47,7 @@ The simulation consists of **workstations** that hold specific stock items and a
 ## How to Run
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/Assembly-Line-Simulation.git
+git clone https://github.com/dliu84/Assembly-Line-Simulation.git
 ```
 
 ## Contributors
