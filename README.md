@@ -61,9 +61,7 @@ g++ *.cpp -o AssemblyLine
 - **Professor Cornel Barna** (Instructor, Seneca Polytechnic, OOP345, 2023 Winter)  
 - **Di Liu** - [dliu84](https://github.com/dliu84)  
 
-## Citation
+## License
 
-If you use this project in your work, please cite it as follows:
-
-> Di Liu (2025). *Assembly-Line-Simulation*. GitHub. [https://github.com/dliu84/Assembly-Line-Simulation](https://github.com/dliu84/Assembly-Line-Simulation)
+This project is licensed under the [MIT License](LICENSE).
 
